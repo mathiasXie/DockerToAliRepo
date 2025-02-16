@@ -16,4 +16,3 @@ redis
 neo4j:5.26.0-community-bullseye
 kubernetesui/dashboard:v2.7.0
 kubernetesui/metrics-scraper:v1.0.8
-
