@@ -4,9 +4,9 @@
 #mysql:8.4.3
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
-elasticsearch:7.17.28
-logstash:7.17.28
-kibana:7.17.28
+#elasticsearch:7.17.28
+#logstash:7.17.28
+#kibana:7.17.28
 #redis
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
@@ -19,3 +19,5 @@ kibana:7.17.28
 #neo4j:5.26.0-community-bullseye
 #kubernetesui/dashboard:v2.7.0
 #kubernetesui/metrics-scraper:v1.0.8
+golang:1.23-alpine
+alpine:3.19
